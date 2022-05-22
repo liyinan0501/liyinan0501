@@ -1,5 +1,5 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
-I’m Yinan, a full stack developer from China 🇨🇳. Now I am living Finland 🇫🇮.
+I’m Yinan, a full stack developer from China 🇨🇳. Now I‘m living in Finland 🇫🇮.
 <table>
   <tr>
     <td align="center" width="200">
