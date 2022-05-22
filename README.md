@@ -1,10 +1,10 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="50" /> Hi and welcome on board!</h2>
-I’m Yinan, a full stack developer from China 🇨🇳. Now I‘m living in Finland 🇫🇮.
+I’m Yinan, a full stack developer from China 🇨🇳. Now I‘m living in Finland 🇫🇮. Free to follow! 
 <table>
   <tr>
     <td align="center" width="200">
       <img
-        src="https://avatars1.githubusercontent.com/u/9441414?s=200&v=4"
+        src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
         width="60"
       />
       <br />
@@ -12,7 +12,7 @@ I’m Yinan, a full stack developer from China 🇨🇳. Now I‘m living in Fin
     </td>
     <td align="center" width="200">
       <img
-        src="https://logosvector.net/wp-content/uploads/2015/09/nodejs-logo.png"
+        src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
         width="60"
       />
       <br />
