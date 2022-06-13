@@ -31,7 +31,7 @@ I’m Yinan, a full stack developer living in Finland 🇫🇮 from China 🇨�
     <td align="center" width="200">
       <img
         src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
-        width="70" height="60"
+        width="80" height="60"
       />
       <br />
       MongoDB
