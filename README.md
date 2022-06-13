@@ -28,6 +28,14 @@ I’m Yinan, a full stack developer living in Finland 🇫🇮 from China 🇨�
       <br />
       ant-design
     </td>
+    <td align="center" width="200">
+      <img
+        src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
+        width="60"
+      />
+      <br />
+      MongoDB
+    </td>
   </tr>
 </table>
 <q>Continuous learning is the minimum requirement for success in any field.</q>
