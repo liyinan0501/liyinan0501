@@ -28,6 +28,7 @@ I’m Yinan, a full stack developer living in Finland 🇫🇮 from China 🇨�
     </td>
   </tr>
 </table>
+<q>Continuous learning is the minimum requirement for success in any field.</q>
 
 <!---
 liyinan0501/liyinan0501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
