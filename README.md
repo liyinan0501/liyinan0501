@@ -47,10 +47,12 @@ I’m Yinan, a full stack developer living in Finland 🇫🇮 from China 🇨�
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescriptlang" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="60" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="scss" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="60" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="60" height="55"/>
 </p>
 
 <q>Continuous learning is the minimum requirement for success in any field.</q>
