@@ -15,7 +15,7 @@ I’m Yinan, a full stack developer living in Finland 🇫🇮 from China 🇨�
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="scss" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="60" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="antdesign" width="60" height="55"/>
+  <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="antdesign" width="60" height="55"/>
 </p>
 
 <q>Continuous learning is the minimum requirement for success in any field.</q>
