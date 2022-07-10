@@ -2,42 +2,6 @@
 I’m Yinan, a full stack developer living in Finland 🇫🇮 from China 🇨🇳 . Free to follow! 
 <br />
 <br />
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img
-        src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
-        width="60"
-      />
-      <br />
-      React
-    </td>
-    <td align="center" width="200">
-      <img
-        src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
-        width="60"
-      />
-      <br />
-      Node.js
-    </td>
-    <td align="center" width="200">
-      <img
-        src="https://avatars1.githubusercontent.com/u/12101536?s=200&v=4"
-        width="60"
-      />
-      <br />
-      ant-design
-    </td>
-    <td align="center" width="200">
-      <img
-        src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
-        width="80" height="60"
-      />
-      <br />
-      MongoDB
-    </td>
-  </tr>
-</table>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
@@ -51,6 +15,7 @@ I’m Yinan, a full stack developer living in Finland 🇫🇮 from China 🇨�
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="scss" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="60" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="antdesign" width="60" height="55"/>
 </p>
 
 <q>Continuous learning is the minimum requirement for success in any field.</q>
