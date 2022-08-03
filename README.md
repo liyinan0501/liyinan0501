@@ -18,7 +18,7 @@ My name is Yinan Li, a full stack developer living in Turku of Finland 🇫🇮 
   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="antdesign" width="60" height="55"/>
 </p>
 
-<q>Continuous learning is the minimum requirement for success in any field.</q>
+<q>Continuous learning is the minimum requirement for success in any field!</q>
 
 <!---
 liyinan0501/liyinan0501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
