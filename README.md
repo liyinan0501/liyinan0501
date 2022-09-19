@@ -1,6 +1,6 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="50" />&nbsp Hello and welcome on board!</h2>
 <p>
-My name is Yinan Li, a full stack developer living in Turku of Finland 🇫🇮 from Harbin of China 🇨🇳, studying at University of Turku. Free to follow my GitHub! If you have any questions, please do not hesitate to contact me 😊. 
+My name is Yinan Li, a full stack developer living in Turku of Finland 🇫🇮 from Harbin of China 🇨🇳, working for Kenttäviiva Oy. Free to follow my GitHub! If you have any questions, please do not hesitate to contact me 😊. 
 (gabriel.li5566@gmail.com)
 </p>
 
