@@ -24,6 +24,7 @@ My name is Yinan Li, a full stack developer living in Turku of Finland 🇫🇮 
   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="antdesign" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue.js" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="60" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/bluetooth/bluetooth-icon.svg" alt="python" width="60" height="55"/>
 </p>
 
 <!---
