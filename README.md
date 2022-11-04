@@ -19,12 +19,13 @@ My name is Yinan Li, a full stack developer living in Turku of Finland 🇫🇮 
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="scss" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="60" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="influxdb" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="55"/>
   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="antdesign" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue.js" width="60" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="60" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/bluetooth/bluetooth-icon.svg" alt="python" width="60" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/bluetooth/bluetooth-icon.svg" alt="bluetooth" width="60" height="55"/>
 </p>
 
 <!---
