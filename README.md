@@ -27,6 +27,7 @@ My name is Yinan Li, a full stack developer living in Turku of Finland 🇫🇮 
   <img src="https://docs.pytest.org/en/latest/_static/pytest_logo_curves.svg" alt="pytest" width="70" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/bluetooth/bluetooth-icon.svg" alt="bluetooth" width="60" height="55"/>
   <img src="https://mqtt.org/assets/downloads/mqtt-logo.png" alt="mqtt" width="150" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" width="150" height="70"/>
 </p>
 
 <!---
